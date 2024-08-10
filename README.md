@@ -8,9 +8,9 @@
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-- 💻 I am a Computer Science Student from Universidad Catolica de Chile (Second Year 🐥)
-- ➕ I work as a tutor for mathematical and computer courses (in process)
-- 👨🏻‍💻 Personal website (In Progress...)
+- 💻 I am a Computer Science Student from Universidad Catolica de Chile 🇨🇱
+- ➕ I work as a tutor for maths and computer courses (Tutorials in Progress)
+- 👨🏻‍💻 Personal website (In Progress...) 
 - 🎸 My youtube channel : https://www.youtube.com/@newcovers17
 - 🏴‍☠️ I Like One Piece 
 
