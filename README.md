@@ -42,3 +42,12 @@
     [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/)
     [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/docs)
 
+---
+
+## <img src="https://media.giphy.com/media/YJ5OlVLZ2QNl6/giphy.gif" width="28px"> **Contacto**
+
+<p align="center">
+<a href="https://github.com/EstebanKiito" target="_blank"><img src="https://img.shields.io/badge/-EstebanKiito-black?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:esteban.ortega@uc.cl"><img src="https://img.shields.io/badge/-esteban.ortega@uc.cl-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/esteban._.d._.luffy" target="_blank"><img src="https://img.shields.io/badge/-@esteban._.d._.luffy-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+</p>
