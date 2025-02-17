@@ -9,6 +9,7 @@
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 - 💻 I am a Computer Science Student from Universidad Catolica de Chile 🇨🇱
+- 🇧🇷 🇺🇸 🇪🇸 I can speak 3 lenguages, and now, im learning my fourth: 🇯🇵
 - ➕ I work as a tutor for maths and computer courses (Tutorials in Progress)
 - 👨🏻‍💻 Personal website (In Progress...) 
 - 🎸 My youtube channel : https://www.youtube.com/@newcovers17
