@@ -11,7 +11,7 @@
 - 💻 I am a Computer Science Student from Universidad Catolica de Chile 🇨🇱
 - 🇧🇷 🇺🇸 🇪🇸 I can speak 3 lenguages, and now, im learning my fourth: 🇯🇵
 - ➕ I work as a tutor for maths and computer courses (Tutorials in Progress)
-- 👨🏻‍💻 Personal website (In Progress...) 
+- 👨🏻‍💻 Personal website : https://estebankiito.github.io/ 
 - 🎸 My youtube channel : https://www.youtube.com/@newcovers17
 - 🏴‍☠️ I Like One Piece 
 
