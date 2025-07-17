@@ -25,12 +25,14 @@
     [![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/)
     [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/documentation/)
     [![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/)
+    [![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+   [![TypeScript](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 - **Front-End Development**:
 
    [![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
    [![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-   [![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+   [![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
 - **Back-End Development**:
 
@@ -50,4 +52,7 @@
 <a href="https://github.com/EstebanKiito" target="_blank"><img src="https://img.shields.io/badge/-EstebanKiito-black?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:esteban.ortega@uc.cl"><img src="https://img.shields.io/badge/-esteban.ortega@uc.cl-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/esteban._.d._.luffy" target="_blank"><img src="https://img.shields.io/badge/-@esteban._.d._.luffy-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+ <a href="https://www.linkedin.com/in/esteban-ortega-moraga-5bb119361" target="_blank">
+  <img src="https://img.shields.io/badge/-Esteban%20Ortega%20Moraga-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
