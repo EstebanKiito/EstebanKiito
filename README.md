@@ -6,44 +6,41 @@
 
 ## **About me**
 
-
-
-- 💻 I am a third-year Computer Science student at Universidad Católica de Chile 🇨🇱
-- 👨🏻‍💻 Personal website : https://estebankiito.github.io/ 
-- 🎸 My youtube channel : https://www.youtube.com/@newcovers17
-- 🗣️ Currently, I speak three languages fluently: Spanish 🇪🇸, Portuguese 🇧🇷 and English 🇺🇸. I am also learning Japanese! 🎌
-- 😇 I love helping other students. Please take a look at my study materials: https://github.com/EstebanKiito/LICC-Cursos
+* 💻 I am a third-year Computer Science student at Universidad Católica de Chile 🇨🇱
+* 👨🏻‍💻 Personal website : https://estebankiito.github.io/
+* 🎸 My youtube channel : https://www.youtube.com/@newcovers17
+* 🗣️ Currently, I speak three languages fluently: Spanish 🇪🇸, Portuguese 🇧🇷 and English 🇺🇸. I am also learning Japanese! 🎌
+* 😇 I love helping other students. Please take a look at my study materials: https://github.com/EstebanKiito/LICC-Cursos
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills (In progress...)</b>
 
 <p align="center">
 
-- **Languages**:
-  
-    [![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/)
-    [![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/)
-    [![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-   [![TypeScript](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-  [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/documentation/)
+* **Languages**:
 
-- **Front-End Development**:
+  [![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge\&logo=python\&logoColor=white)](https://docs.python.org/3/)
+  [![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge\&logo=c\&logoColor=white)](https://en.cppreference.com/w/)
+  [![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge\&logo=javascript\&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [![TypeScript](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)](https://www.typescriptlang.org/)
+  [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge\&logo=ruby\&logoColor=white)](https://www.ruby-lang.org/en/documentation/)
 
-   
-   [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-   [![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-   [![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-   
+* **Front-End Development**:
 
-- **Back-End Development**:
+  [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)](https://react.dev/)
+  [![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)](https://nextjs.org/)
+  [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)](https://tailwindcss.com/)
+  [![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%237952B3.svg?style=for-the-badge\&logo=bootstrap\&logoColor=white)](https://getbootstrap.com/)
 
-  [![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
-  [![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+* **Back-End Development**:
 
-- **Softwares and Tools**:
+  [![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)](https://www.postgresql.org/docs/)
+  [![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)](https://expressjs.com/)
 
-    [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
-    [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
-  [![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
+* **Softwares and Tools**:
+
+  [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)](https://git-scm.com/doc)
+  [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white)](https://www.wireshark.org/)
+  [![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge\&logo=latex\&logoColor=white)](https://www.latex-project.org/)
 
 ---
 
