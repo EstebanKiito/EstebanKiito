@@ -7,7 +7,7 @@
 ## **About me**
 
 * 💻 I am a third-year Computer Science student at Universidad Católica de Chile 🇨🇱
-* 👨🏻‍💻 Personal website : https://estebankiito.github.io/
+* 👨🏻‍💻 Personal website (still working on it) : https://estebankiito.github.io/
 * 🎸 My youtube channel : https://www.youtube.com/@newcovers17
 * 🗣️ Currently, I speak three languages fluently: Spanish 🇪🇸, Portuguese 🇧🇷 and English 🇺🇸. I am also learning Japanese! 🎌
 * 😇 I love helping other students. Please take a look at my study materials: https://github.com/EstebanKiito/LICC-Cursos
